@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6648" started-at="2021-09-15T13:06:53 IST" finished-at="2021-09-15T13:07:00 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6648" started-at="2021-09-15T13:06:53 IST" finished-at="2021-09-15T13:07:00 IST">
+      <class name="practiceTestCase.TestCaseNew">
+        <test-method status="PASS" signature="setupEnvironMent()[pri:0, instance:practiceTestCase.TestCaseNew@166fa74d]" name="setupEnvironMent" is-config="true" duration-ms="6198" started-at="2021-09-15T13:06:47 IST" finished-at="2021-09-15T13:06:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnvironMent -->
+        <test-method status="PASS" signature="locateAllWebElements()[pri:0, instance:practiceTestCase.TestCaseNew@166fa74d]" name="locateAllWebElements" is-config="true" duration-ms="1734" started-at="2021-09-15T13:06:53 IST" finished-at="2021-09-15T13:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locateAllWebElements -->
+        <test-method status="PASS" signature="chekingSr()[pri:1, instance:practiceTestCase.TestCaseNew@166fa74d]" name="chekingSr" duration-ms="373" started-at="2021-09-15T13:06:55 IST" description="verify that appearing test(Sr) is correct or not" finished-at="2021-09-15T13:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chekingSr -->
+        <test-method status="PASS" signature="CheckTestClick()[pri:2, instance:practiceTestCase.TestCaseNew@166fa74d]" name="CheckTestClick" duration-ms="41" started-at="2021-09-15T13:06:55 IST" description="verify that appearing test(Click) is correct or not" depends-on-methods="practiceTestCase.TestCaseNew.chekingSr" finished-at="2021-09-15T13:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTestClick -->
+        <test-method status="PASS" signature="CheckTextSchedule()[pri:3, instance:practiceTestCase.TestCaseNew@166fa74d]" name="CheckTextSchedule" duration-ms="42" started-at="2021-09-15T13:06:55 IST" finished-at="2021-09-15T13:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextSchedule -->
+        <test-method status="PASS" signature="CheckTextVideoLacturesAllTopics()[pri:4, instance:practiceTestCase.TestCaseNew@166fa74d]" name="CheckTextVideoLacturesAllTopics" duration-ms="40" started-at="2021-09-15T13:06:55 IST" finished-at="2021-09-15T13:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextVideoLacturesAllTopics -->
+        <test-method status="PASS" signature="CheckTextSeleniumInterviewQuestions()[pri:5, instance:practiceTestCase.TestCaseNew@166fa74d]" name="CheckTextSeleniumInterviewQuestions" duration-ms="44" started-at="2021-09-15T13:06:55 IST" finished-at="2021-09-15T13:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextSeleniumInterviewQuestions -->
+        <test-method status="PASS" signature="CheckTextJavaInterviewQuestions()[pri:6, instance:practiceTestCase.TestCaseNew@166fa74d]" name="CheckTextJavaInterviewQuestions" duration-ms="42" started-at="2021-09-15T13:06:55 IST" finished-at="2021-09-15T13:06:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextJavaInterviewQuestions -->
+        <test-method status="PASS" signature="CheckTextCourses()[pri:7, instance:practiceTestCase.TestCaseNew@166fa74d]" name="CheckTextCourses" duration-ms="49" started-at="2021-09-15T13:06:56 IST" finished-at="2021-09-15T13:06:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextCourses -->
+        <test-method status="PASS" signature="CheckTextPlacement()[pri:8, instance:practiceTestCase.TestCaseNew@166fa74d]" name="CheckTextPlacement" duration-ms="44" started-at="2021-09-15T13:06:56 IST" finished-at="2021-09-15T13:06:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextPlacement -->
+        <test-method status="PASS" signature="CheckTextInternetRequired()[pri:9, instance:practiceTestCase.TestCaseNew@166fa74d]" name="CheckTextInternetRequired" duration-ms="37" started-at="2021-09-15T13:06:56 IST" finished-at="2021-09-15T13:06:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextInternetRequired -->
+        <test-method status="PASS" signature="usefullinktable()[pri:10, instance:practiceTestCase.TestCaseNew@166fa74d]" name="usefullinktable" duration-ms="601" started-at="2021-09-15T13:06:56 IST" finished-at="2021-09-15T13:06:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usefullinktable -->
+        <test-method status="PASS" signature="operatorlinktable()[pri:11, instance:practiceTestCase.TestCaseNew@166fa74d]" name="operatorlinktable" duration-ms="1782" started-at="2021-09-15T13:06:56 IST" finished-at="2021-09-15T13:06:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operatorlinktable -->
+        <test-method status="PASS" signature="operatorlinktable1()[pri:12, instance:practiceTestCase.TestCaseNew@166fa74d]" name="operatorlinktable1" duration-ms="1431" started-at="2021-09-15T13:06:58 IST" finished-at="2021-09-15T13:06:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operatorlinktable1 -->
+        <test-method status="PASS" signature="downloadtable()[pri:13, instance:practiceTestCase.TestCaseNew@166fa74d]" name="downloadtable" duration-ms="249" started-at="2021-09-15T13:06:59 IST" finished-at="2021-09-15T13:07:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadtable -->
+        <test-method status="PASS" signature="downloadtable1()[pri:14, instance:practiceTestCase.TestCaseNew@166fa74d]" name="downloadtable1" duration-ms="59" started-at="2021-09-15T13:07:00 IST" finished-at="2021-09-15T13:07:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadtable1 -->
+      </class> <!-- practiceTestCase.TestCaseNew -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
